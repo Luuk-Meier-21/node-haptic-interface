@@ -12,7 +12,4 @@
 </div>
 
 <style lang="scss">
-  	@import "./static/core/global";
-	@import "./static/protons";
-	@import "./static/atoms";
 </style>
